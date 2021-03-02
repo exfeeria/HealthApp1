@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/iconfinder_11_healthy_strong_fitness_strength_athlete_sport_exercise_5969610"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/iconfinder_news_613538"
+        android:title="Community" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/iconfinder_settings_115801"
+        android:title="Settings" />
+
+</menu>
